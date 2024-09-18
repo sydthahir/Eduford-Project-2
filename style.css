@@ -335,6 +335,9 @@ height: 40px;
     line-height: 21.6px;
     margin-bottom: 60px;
 }
+.about a{
+    text-decoration: none;
+}
    
 
 
